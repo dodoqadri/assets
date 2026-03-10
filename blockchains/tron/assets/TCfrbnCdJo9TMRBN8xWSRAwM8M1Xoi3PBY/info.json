@@ -4,12 +4,25 @@
     "symbol": "DXBDT",
     "decimals": 9,
     "website": "https://dxbdt.com/",
-    "description": "A fully reserved, 1:1 value-backed stable token engineered for predictable pricing, transparent supply, and secure on-chain transfers. Built for exchanges, DeFi, traders, and global payments.",
-    "explorer": "https://tronscan.org/#/token20/TCfrbnCdJo9TMRBN8xWSRAwM8M1Xoi3PBY",
+    "description": "DXBDT Stablecoin",
+    "explorer": "https://tronscan.io/#/token20/TCfrbnCdJo9TMRBN8xWSRAwM8M1Xoi3PBY",
     "status": "active",
     "id": "TCfrbnCdJo9TMRBN8xWSRAwM8M1Xoi3PBY",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/DXBDT181166"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/DXBTCOIN"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.geckoterminal.com/tron/pools/TLmx9yWFdApN76DZWL73Gd74yK7FF5zdUY"
+        }
+    ],
     "tags": [
-        "stablecoin",
-        "exchange"
+        "stablecoin"
     ]
 }
