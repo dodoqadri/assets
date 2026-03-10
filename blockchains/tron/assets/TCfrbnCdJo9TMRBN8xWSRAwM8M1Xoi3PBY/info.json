@@ -1,0 +1,15 @@
+{
+    "name": "DXBDT",
+    "type": "TRC20",
+    "symbol": "DXBDT",
+    "decimals": 9,
+    "website": "https://dxbdt.com/",
+    "description": "A fully reserved, 1:1 value-backed stable token engineered for predictable pricing, transparent supply, and secure on-chain transfers. Built for exchanges, DeFi, traders, and global payments.",
+    "explorer": "https://tronscan.org/#/token20/TCfrbnCdJo9TMRBN8xWSRAwM8M1Xoi3PBY",
+    "status": "active",
+    "id": "TCfrbnCdJo9TMRBN8xWSRAwM8M1Xoi3PBY",
+    "tags": [
+        "stablecoin",
+        "exchange"
+    ]
+}
